@@ -37,5 +37,6 @@ public class CreateNewOrganizationPage {
 				OrgNameEdt.sendKeys(ORGNAME);
 				SaveBtn.click();
 			}
+			}
 
 }
